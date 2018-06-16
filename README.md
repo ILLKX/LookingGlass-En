@@ -7,7 +7,7 @@ This LookingGlass is Powered by [LookingGlass](https://github.com/telephone/Look
 
 ## Some modifications after forking  
 1、Add GeoIP data when traceroute under IPv4    
-2、Use DD command to creater test files  
+2、Use DD command to create test files  
 3、Add translation for simplified Chinese  
 4、Modify the output language of traceroute result  
 
