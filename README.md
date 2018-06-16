@@ -11,6 +11,10 @@ This LookingGlass is Powered by [LookingGlass](https://github.com/telephone/Look
 3、Add translation for simplified Chinese  
 4、Modify the output language of traceroute result  
 
+## Screenshot
+
+![](https://github.com/ILLKX/LookingGlass-En/raw/master/screenshot.jpg)
+
 ## Overview
 
 LookingGlass is a user-friendly PHP based looking glass that allows the public (via a web interface) to execute network
