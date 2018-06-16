@@ -147,7 +147,7 @@ function getIP() {
             <a href="/cn.php">中文</a>
             <a href="#">Back to top</a>
         </p>
-        <p>Localized by <a href="https://github.com/ILLKX/LookingGlass">LookingGlass</a> - Powered by <a href="https://github.com/telephone/LookingGlass">LookingGlass</a></p>
+        <p>Localized by <a href="https://github.com/ILLKX/LookingGlass-En">LookingGlass</a> - Powered by <a href="https://github.com/telephone/LookingGlass">LookingGlass</a></p>
       </footer>
 
     </div><!-- /container -->
