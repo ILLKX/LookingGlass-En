@@ -10,6 +10,7 @@ This LookingGlass is Powered by [LookingGlass](https://github.com/telephone/Look
 2、Use DD command to create test files  
 3、Add translation for simplified Chinese  
 4、Modify the output language of traceroute result  
+5、Add support for CDN  
 
 ## Screenshot
 
