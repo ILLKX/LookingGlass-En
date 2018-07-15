@@ -191,7 +191,7 @@ class LookingGlass
         // check for mtr/traceroute
         if (strpos($cmd, 'mtr') !== false) {
             $type = 'mtr';
-        } elseif (strpos($cmd, 'traceroute') !== false) {
+        } elseif (strpos($cmd, 'trace') !== false) {
             $type = 'traceroute';
         } else {
             $type = '';
