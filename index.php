@@ -144,7 +144,7 @@ function getIP() {
       <!-- Footer -->
       <footer class="footer nohighlight">
         <p class="pull-right">
-            <a href="/cn.php">中文</a>
+            <a href="<?php echo $siteUrl . "/cn.php"; ?>">中文</a>
             <a href="#">Back to top</a>
         </p>
         <p>Localized by <a href="https://github.com/ILLKX/LookingGlass-En">LookingGlass</a> - Powered by <a href="https://github.com/telephone/LookingGlass">LookingGlass</a></p>
