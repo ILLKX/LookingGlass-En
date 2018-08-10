@@ -465,6 +465,7 @@ THEME=
 
 # Install required scripts
 echo 'Checking script requirements:'
+rm -rf /usr/bin/besttrace
 cp $DIR/besttrace /usr/bin
 requirements
 echo
