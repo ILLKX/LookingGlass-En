@@ -3,14 +3,15 @@
 This LookingGlass is Powered by [LookingGlass](https://github.com/telephone/LookingGlass) and Localized by [LookingGlass](https://github.com/ILLKX/LookingGlass-En).  
 
 ## Demo
-[https://lgen.illkx.tk](https://lgen.illkx.tk)  
+Pay a visit at [LookingGlass](https://github.com/ILLKX/LookingGlass).
 
 ## Some modifications after forking  
-1、Add GeoIP data when traceroute under IPv4    
-2、Use DD command to create test files  
-3、Add translation for simplified Chinese  
-4、Modify the output language of traceroute result  
-5、Add support for CDN  
+1.Add GeoIP information when traceroute under IPv4    
+2.Use DD command to create test files  
+3.Add translation for simplified Chinese  
+4.Modify the output language of traceroute result  
+5.Add support for CDN  
+6.GeoIP information when you traceroute under IPv6 is now supported!  
 
 ## Screenshot
 
