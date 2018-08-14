@@ -161,7 +161,7 @@ EOF
 }
 
 ##
-# Fix besttrace on REHL based OS
+# Fix besttrace
 ##
 function besttraceFix()
 {
@@ -500,7 +500,7 @@ database
 if [ "$INSTALL" = 'yum' ]; then
   mtrFix
 fi
-# Check for RHEL besttrace
+# Check besttrace
 besttraceFix
 # All done
 cat <<EOF
