@@ -1,6 +1,6 @@
 # LookingGlass-En
 
-This LookingGlass is Powered by [LookingGlass](https://github.com/telephone/LookingGlass) and Localized by [LookingGlass](https://github.com/ILLKX/LookingGlass-En).  
+This LookingGlass is Powered by [LookingGlass](https://github.com/telephone/LookingGlass) and Modified by [LookingGlass](https://github.com/ILLKX/LookingGlass-En).  
 
 ## Demo
 Pay a visit at [LookingGlass](https://github.com/ILLKX/LookingGlass).
