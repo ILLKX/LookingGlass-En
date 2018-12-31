@@ -3,7 +3,8 @@
 This LookingGlass is Powered by [LookingGlass](https://github.com/telephone/LookingGlass) and Modified by [LookingGlass](https://github.com/ILLKX/LookingGlass-En).  
 
 ## Demo
-Pay a visit at [LookingGlass](https://github.com/ILLKX/LookingGlass).
+
+[https://lgen.test.testip.xyz](https://lgen.test.testip.xyz)
 
 ## Some modifications after forking  
 1.Add GeoIP information when traceroute under IPv4    
